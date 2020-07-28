@@ -1,4 +1,5 @@
-# Methods in Ruby
+
+# Methods in Ruby ruby lib/example.rbs
 
 ## Overview
 
